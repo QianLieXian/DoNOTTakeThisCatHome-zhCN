@@ -1,0 +1,13 @@
+*.rpyc
+*.save
+*.rpa
+*.exe
+*.dll
+*.zip
+*.7z
+__pycache__/
+saves/
+cache/
+persistent
+log.txt
+traceback.txt
