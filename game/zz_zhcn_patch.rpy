@@ -44,5 +44,5 @@ screen zhcn_language_switch():
             xalign 0.97
             yalign 0.97
             spacing 18
-            textbutton "简体中文" action Language("zh_CN") text_font "fonts/SourceHanSansCN-Regular.otf" text_size 20
-            textbutton "English" action Language("eng") text_font "fonts/SourceHanSansCN-Regular.otf" text_size 20
+            textbutton "简体中文" action [Language("zh_CN"), If(renpy.get_screen("languageselect"), Jump("afterLanguage"), NullAction())] text_font "fonts/SourceHanSansCN-Regular.otf" text_size 20
+            textbutton "English" action [Language("eng"), If(renpy.get_screen("languageselect"), Jump("afterLanguage"), NullAction())] text_font "fonts/SourceHanSansCN-Regular.otf" text_size 20

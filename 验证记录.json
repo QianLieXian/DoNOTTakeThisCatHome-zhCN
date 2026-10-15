@@ -1,5 +1,5 @@
 {
-  "patch_version": "1.0.0",
+  "patch_version": "1.0.1",
   "game_version": "PC 1.0",
   "engine": "RenPy 8.5.2.26010301",
   "validation_date": "2026-10-15",
@@ -12,6 +12,7 @@
   "smoke_test_assertions_passed": 24,
   "restart_and_save_load_assertions_passed": 3,
   "clean_original_plus_release_overlay_assertions_passed": 5,
+  "initial_language_chooser_assertions_passed": 3,
   "puzzle_correct_letters_checked": {"BACKUP": 6, "KILL_IT": 6},
   "phone_background_text_overlays": 26,
   "runtime_preview_checks": ["main menu", "preferences", "language switching", "about", "dialogue", "choices", "endings", "phone messages", "phone glitch", "new-message notification"],

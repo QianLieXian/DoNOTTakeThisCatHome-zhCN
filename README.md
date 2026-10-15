@@ -9,7 +9,7 @@
 
 1. 从作者页面下载并完整解压 `DoNOTTakeThisCatHome-1.0-pc.zip`，先退出游戏。
 2. 备份游戏目录和存档；至少保留原来的两份英文 `.txt` 文档。
-3. 下载 Releases 中的 `DoNOTTakeThisCatHome-PC1.0-zhCN-v1.0.0.zip`，把压缩包内的 **`game` 文件夹及其他文件直接复制到游戏根目录**。确认 `game` 与 `DoNOTTakeThisCatHome.exe` 同级，合并同名文件夹即可。
+3. 下载 Releases 中的 `DoNOTTakeThisCatHome-PC1.0-zhCN-v1.0.1.zip`，把压缩包内的 **`game` 文件夹及其他文件直接复制到游戏根目录**。确认 `game` 与 `DoNOTTakeThisCatHome.exe` 同级，合并同名文件夹即可。
 4. 正常运行原来的游戏程序。首次安装补丁默认进入简体中文。若已有语言偏好，在“设置”右下角点击“简体中文”；点击旁边的 `English` 可切回英语。
 
 无需另装 Python、Ren’Py、字体或任何翻译软件。补丁使用原版内附的 `game/fonts/SourceHanSansCN-Regular.otf`。若缺少该文件，请重新取得对应的完整原版。

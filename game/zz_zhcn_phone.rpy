@@ -1,5 +1,5 @@
 # Runtime text overlays; original background images remain in the base game.
-init 1001 python:
+init 998 python:
     _zhcn_phone_overlays = {}
     _zhcn_phone_overlays["bg phone2a"] = Composite((1280, 720), (0, 0), Image("normalBGs/alleyPhone02a.png"), (140, 33), Solid("#ffa099", xsize=296, ysize=65), (140, 33), Text("我可不可爱呀？？", font="fonts/SourceHanSansCN-Regular.otf", size=37, color="#000000", xsize=296, ysize=65, text_align=0.5, yalign=0.5))
     renpy.image("bg phone2a", ConditionSwitch("_preferences.language == 'zh_CN'", _zhcn_phone_overlays["bg phone2a"], "True", Image("normalBGs/alleyPhone02a.png")))
