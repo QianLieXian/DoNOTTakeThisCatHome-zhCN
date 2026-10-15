@@ -297,7 +297,7 @@ translate zh_CN strings:
     new "也许，这才是我一直想要的。"
 
     old "{i}Wanting{/i} could be so fleeting...\n\nBut to be {i}needed?{/i}"
-    new "{i}想要{/i}，可能转瞬即逝……\n\n可被{i}需要{/i}呢？"
+    new "被{i}想要{/i}，也许只是一时的……\n\n可被{i}需要{/i}呢？"
 
     old "There was nothing I wouldn't give\n\nto have someone tell me that I mattered to them..."
     new "只要有人肯告诉我，我对他们很重要……\n\n我愿意付出一切。"
@@ -381,13 +381,13 @@ translate zh_CN strings:
     new "说父母的爱，是无条件的……"
 
     old "The wounds they'd inflicted on my skin and in my heart...\n\nhad long since scarred over the day they dealt the final blow..."
-    new "他们最后一次重伤我时，\n\n那些早已留在皮肤和心里的伤，早就结成了疤……"
+    new "他们在我皮肤上、心里留下的伤，早就结了疤……\n\n直到那天，他们又给了我最后一击……"
 
     old "And all it took were two little words..."
-    new "而那最后一击，只用了两个字……"
+    new "而那最后一击，只用了短短三个字……"
 
     old "{alpha=0.2}\"Get out.\"{/alpha}"
-    new "{alpha=0.2}“滚开。”{/alpha}"
+    new "{alpha=0.2}“滚出去。”{/alpha}"
 
     old "The day they finally turned their backs on me...\n\n{b}abandoned{/b} me..."
     new "他们终于转身不再看我……\n\n把我{b}抛弃{/b}的那一天……"

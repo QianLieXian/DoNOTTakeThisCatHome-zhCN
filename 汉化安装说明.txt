@@ -1,4 +1,4 @@
-《不要把这只猫带回家》PC 1.0 简体中文补丁 v1.0.1
+﻿《不要把这只猫带回家》PC 1.0 简体中文补丁 v1.1.0
 
 先退出游戏并备份。将本压缩包内 game 文件夹与其他文件复制到游戏根目录，合并同名文件夹。
 正确位置：DoNOTTakeThisCatHome.exe 与 game 文件夹在同一级。
@@ -15,3 +15,5 @@ Endings_guide.txt 是中文版结局攻略，包含严重剧透。
 
 原作官方下载：https://pixeliminal.itch.io/do-not-take-this-cat-home
 补丁发布：https://github.com/QianLieXian/DoNOTTakeThisCatHome-zhCN/releases/latest
+
+本版复核修改 82 条译文，并新增或重修 22 张带文字图片。图片差量只在中文语言时生效，不覆盖原版图片。

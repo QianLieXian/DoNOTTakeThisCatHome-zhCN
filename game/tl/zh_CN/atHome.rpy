@@ -162,7 +162,7 @@ translate zh_CN keepCleaning_f12f1103:
 
 translate zh_CN keepCleaning_6b45c41b:
 
-    "杂物堆高高耸起，把你压在底下。"
+    "杂物堆高高耸起，比你还高。"
 
 translate zh_CN keepCleaning_1b4957f6:
 
@@ -198,7 +198,7 @@ translate zh_CN keepCleaning_2ee0c458:
 
 translate zh_CN keepCleaning_dde8fd86:
 
-    "它小心地一推，又把一个茶杯拨了下来，让它一路翻滚着砸向地面……"
+    "它小心地又拨下一只茶杯，任它翻落在地……"
 
 translate zh_CN keepCleaning_f68c64ac:
 
@@ -370,7 +370,7 @@ translate zh_CN keepCleaning_fdf7d678:
 
 translate zh_CN catchCat_2d0b7d8d:
 
-    "这小混蛋一直捣乱，你还怎么打扫完？"
+    "这小捣蛋鬼一直作乱，你还怎么把屋子收拾完？"
 
 translate zh_CN catchCat_bcf6dd4d:
 
@@ -426,7 +426,7 @@ translate zh_CN catchCat_5264ec6b:
 
 translate zh_CN catchCat_e6ab25a3:
 
-    "你冲着厨房中岛台就是一通{b}{i}彻底清洁{/i}{/b}。"
+    "你对着厨房中岛台一通忙活，给它来了次{b}{i}彻底的大扫除{/i}{/b}。"
 
 translate zh_CN catchCat_f8c31f4c:
 
@@ -610,7 +610,7 @@ translate zh_CN catchCat_bf0874e3:
 
 translate zh_CN catchCat_77335cac:
 
-    "可你又感觉到了，背后被什么盯着的、熟悉的心头一沉……"
+    "你又有了那种熟悉的感觉：背后有什么盯着你，心一下沉了下去……"
 
 translate zh_CN catchCat_7fe62e1d:
 
@@ -674,7 +674,7 @@ translate zh_CN catchCat_a20cefa7_2:
 
 translate zh_CN catchCat_4d3e0545:
 
-    "……而作为回应。"
+    "……仿佛是在回应你。"
 
 translate zh_CN catchCat_3d2d7818:
 
@@ -986,7 +986,7 @@ translate zh_CN sitOnFloor_bc0619d3:
 
 translate zh_CN sitOnFloor_b084c950:
 
-    "那种熟悉的感觉又来了：你的脑子死盯着小细节，好逃避眼前的整个处境。"
+    "那种熟悉的感觉又来了：你的脑子只顾抠细节，想借此逃避眼前的处境。"
 
 translate zh_CN sitOnFloor_907a81a6:
 
@@ -1118,7 +1118,7 @@ translate zh_CN sitOnFloor_1d340c8b:
 
 translate zh_CN sitOnFloor_7c7dcbc3:
 
-    "一个念头闪过脑海，清晰得可怕，也{i}可怕得清晰{/i}……"
+    "一个念头闪过脑海……清晰，却又{i}可怕{/i}……"
 
 translate zh_CN sitOnFloor_2061faa4:
 
@@ -1570,7 +1570,7 @@ translate zh_CN movieBathroomJumpscare1_30fe06e7:
 
 translate zh_CN movieBathroomJumpscare1_b8391155:
 
-    "恐惧和预期交织，心脏猛地一抽……"
+    "恐惧，还有对下一场惊吓的提心吊胆，让你的心脏猛地一抽……"
 
 translate zh_CN movieBathroomJumpscare1_ee49c0d1:
 
@@ -2238,7 +2238,7 @@ translate zh_CN napTogether_9728d600:
 
 translate zh_CN napTogether_7accebe2:
 
-    "细得你觉得，根本不该{i}可——{/i}"
+    "细得让你觉得，这根本就不{i}可——{/i}"
 
 translate zh_CN napTogether_f877cb8f:
 
@@ -2874,7 +2874,7 @@ translate zh_CN feedHome_aa2b7420:
 
 translate zh_CN feedHome_8b7aae08:
 
-    "冰箱里，几块剩下的肉糜烤饼……"
+    "冰箱里，几块剩下的烤肉饼……"
 
 translate zh_CN feedHome_cb64e404:
 
@@ -2958,7 +2958,7 @@ translate zh_CN feedTuna_d786e656:
 
 translate zh_CN feedTuna_96364a0d:
 
-    "你耸耸肩，给猫拿了金枪鱼，给自己拿了肉糜烤饼。"
+    "你耸耸肩，给猫拿了金枪鱼，给自己拿了烤肉饼。"
 
 translate zh_CN feedTuna_1712c85a:
 
@@ -2986,7 +2986,7 @@ translate zh_CN feedTuna_a1f2544f:
 
 translate zh_CN feedTuna_a98d3823:
 
-    "……不过没喂它想吃的那团有毒黏糊糊，这就当补偿了。"
+    "……不过，它想吃那团有毒的糊糊，你没答应。就当是补偿它了。"
 
 translate zh_CN feedTuna_16879ce5:
 
@@ -3014,7 +3014,7 @@ translate zh_CN feedTuna_085f82bc:
 
 translate zh_CN feedTuna_38b50666:
 
-    "猫埋头吃饭，你则把肉糜烤饼放进微波炉加热。"
+    "猫埋头吃饭，你则把烤肉饼放进微波炉加热。"
 
 translate zh_CN feedTuna_c294db5c:
 
@@ -3330,7 +3330,7 @@ translate zh_CN feedMeatloaf_4217e4a0:
 
 translate zh_CN feedMeatloaf_6b525050:
 
-    "你吃金枪鱼三明治，猫客人吃剩下的肉糜烤饼。"
+    "你吃金枪鱼三明治，猫客人吃剩下的烤肉饼。"
 
 translate zh_CN feedMeatloaf_47300799:
 
@@ -3338,7 +3338,7 @@ translate zh_CN feedMeatloaf_47300799:
 
 translate zh_CN feedMeatloaf_f17edea9:
 
-    "你用微波炉加热肉糜烤饼。"
+    "你用微波炉加热烤肉饼。"
 
 translate zh_CN feedMeatloaf_8dabefc6:
 
@@ -3354,7 +3354,7 @@ translate zh_CN feedMeatloaf_6a13ca1e:
 
 translate zh_CN feedMeatloaf_187e6671:
 
-    "热好的肉糜烤饼装进小碟，放在台面上，挨着猫。"
+    "热好的烤肉饼装进小碟，放在台面上，挨着猫。"
 
 translate zh_CN feedMeatloaf_a1f2544f:
 
@@ -3362,7 +3362,7 @@ translate zh_CN feedMeatloaf_a1f2544f:
 
 translate zh_CN feedMeatloaf_a98d3823:
 
-    "……不过没喂它想吃的那团有毒黏糊糊，这就当补偿了。"
+    "……不过，它想吃那团有毒的糊糊，你没答应。就当是补偿它了。"
 
 translate zh_CN feedMeatloaf_16879ce5:
 
@@ -3370,7 +3370,7 @@ translate zh_CN feedMeatloaf_16879ce5:
 
 translate zh_CN feedMeatloaf_6f042a3e:
 
-    "猫对肉糜烤饼的评价，看起来是……"
+    "猫对烤肉饼的评价，看起来是……"
 
 translate zh_CN feedMeatloaf_c595ac61:
 
@@ -4166,7 +4166,7 @@ translate zh_CN feedMysteryFood_30734567:
 
 translate zh_CN feedMysteryFood_5aa5bc57:
 
-    you "住……住嗦……求……泥……"
+    you "停……停吓……求……泥……"
 
 translate zh_CN feedMysteryFood_211a3f4c:
 
@@ -4334,7 +4334,7 @@ translate zh_CN playYarn_e8f945eb:
 
 translate zh_CN playYarn_cf283aac:
 
-    "……猫就是他妈的{b}爱玩{/b}毛线。"
+    "……猫简直{b}爱死{/b}毛线了。"
 
 translate zh_CN playYarn_a20cefa7:
 
@@ -4998,7 +4998,7 @@ translate zh_CN playLaser_539c898a:
 
 translate zh_CN playLaser_f45e7675:
 
-    "你想拦住它，可又不敢冲进这场狂暴。"
+    "你想拦住它，却不敢靠近正在发狂的它。"
 
 translate zh_CN playLaser_8920b0ca:
 
@@ -5126,7 +5126,7 @@ translate zh_CN playLaser_189e50c9:
 
 translate zh_CN playLaser_0d1c6dcc:
 
-    "……眼睛凸出，泛着光……{w}尾巴狂甩……{w}牙齿变大，龇露在外，裹着令人不安的泡沫……"
+    "……眼球凸出，泛着光……{w}尾巴狂甩……{w}獠牙变大，龇露在外，裹满了令人心惊的泡沫……"
 
 translate zh_CN playLaser_b78125ff:
 
@@ -5446,7 +5446,7 @@ translate zh_CN playHideSeek_659c41b9:
 
 translate zh_CN playHideSeek_138bf664:
 
-    "……可猫没有能开门的对生拇指，也进不了走廊里那些关着门的房间。"
+    "……不过，猫没有能像人手那样抓握、开门的拇指。走廊里那些关着门的房间，它也进不去。"
 
 translate zh_CN playHideSeek_46edf521:
 
@@ -5882,7 +5882,7 @@ translate zh_CN hideAndSeekEnd_3523c074:
 
 translate zh_CN hideAndSeekEnd_981dfd0d:
 
-    "心跳又快了。想悄悄呼吸都变得困难，想呼吸本身，也变得困难……"
+    "心跳又快了。你越来越难压住呼吸声，甚至连喘气都觉得困难……"
 
 translate zh_CN hideAndSeekEnd_f29fbbed:
 
@@ -6102,7 +6102,7 @@ translate zh_CN hidingGetOut_8ca8510a:
 
 translate zh_CN hidingGetOut_dec8c6c7:
 
-    "你看向门。上面的锁，比你{i}知道{/i}自己装过的，多了好几道。"
+    "你看向门，发现上面的锁比原来多了好几道。你{i}明明记得{/i}，没装过这些锁。"
 
 translate zh_CN hidingGetOut_3df65a5c:
 
@@ -6250,7 +6250,7 @@ translate zh_CN cleanQuick_5f15c75c:
 
 translate zh_CN cleanQuick_2b5c1bb2:
 
-    "不过，它再怎么生一会儿气……{w}你知道，这都是为它好。"
+    "不过，就算它会生你一阵子的气……{w}你也知道，这都是为它好。"
 
 translate zh_CN cleanQuick_5bf8a6d7:
 
@@ -6258,7 +6258,7 @@ translate zh_CN cleanQuick_5bf8a6d7:
 
 translate zh_CN cleanQuick_b7d98ebe:
 
-    "……失手把猫掉进了浴缸。"
+    "……你手一松，猫掉进了浴缸。"
 
 translate zh_CN cleanQuick_0e4fefa1:
 
@@ -6686,7 +6686,7 @@ translate zh_CN cleanCareful_a20cefa7_3:
 
 translate zh_CN cleanCareful_dc678fac:
 
-    "结局 15：互相保养好伙伴"
+    "结局 15：护理好搭档"
 
 translate zh_CN strings:
 
@@ -6709,7 +6709,7 @@ translate zh_CN strings:
     new "睡个午觉"
 
     old "On second thought..."
-    new "还是想想……"
+    new "要不，还是……"
 
     old "Pet cat"
     new "摸摸猫"
@@ -6796,7 +6796,7 @@ translate zh_CN strings:
     new "金枪鱼"
 
     old "Meatloaf"
-    new "肉糜烤饼"
+    new "烤肉饼"
 
     old "Mystery food"
     new "神秘食物"

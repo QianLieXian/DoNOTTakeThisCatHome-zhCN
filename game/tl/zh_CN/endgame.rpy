@@ -118,7 +118,7 @@ translate zh_CN encounterCat_dae0ec55:
 
 translate zh_CN encounterCat_48bb4310:
 
-    "记忆慢慢拼起一个瞬间的碎片……{w}一次相遇……"
+    "零碎的记忆慢慢拼了起来……{w}是那次相遇……"
 
 translate zh_CN encounterCat_b4fa62a0:
 
@@ -290,7 +290,7 @@ translate zh_CN questionCat2_78b85363:
 
 translate zh_CN questionCat2_3b6637ed:
 
-    cat "现实里的你和我，都暂停在你的现实中。不过我想，实际上并没过去多久。"
+    cat "在你的现实里，真正的你和我，还停在原来的那一刻。不过，我想其实也没过去多久。"
 
 translate zh_CN questionCat2_cea70401:
 
@@ -482,7 +482,7 @@ translate zh_CN questionCat5_c5905ab0:
 
 translate zh_CN questionCat5_ea6e786a:
 
-    cat "眼下，我想再多陪你玩一会儿。{w}你到目前为止的陪伴，可给我带来了不少乐趣。"
+    cat "眼下，我想再多陪你玩一会儿。{w}有你在，可给我添了不少乐趣。"
 
 translate zh_CN questionCat5_03ab381b:
 
@@ -646,7 +646,7 @@ translate zh_CN returnOrigin_bf0874e3:
 
 translate zh_CN returnOrigin_9042cfe9:
 
-    "不过，我仍会允许你，亲自接受自己命运的真相。"
+    "不过，我还是会给你一个机会，让你亲自接受自己的命运。"
 
 translate zh_CN returnOrigin_186f39f2:
 
@@ -698,7 +698,7 @@ translate zh_CN joinCat_69c0188b:
 
 translate zh_CN joinCat_cedc8e66:
 
-    you "怎么……怎摸回……事……？"
+    you "怎……怎摸……回事……？"
 
 translate zh_CN joinCat_5e8da3e5:
 
@@ -786,7 +786,7 @@ translate zh_CN refuseCat_2e28e1bd:
 
 translate zh_CN refuseCat_9e637eeb:
 
-    "高得仿佛是天空把它倾倒向大地……甚至，{i}还在{/i}不停地倾倒……"
+    "高得仿佛正从天穹倾泻而下……甚至，{i}还在{/i}不断倾泻……"
 
 translate zh_CN refuseCat_1d4c6563:
 
@@ -794,7 +794,7 @@ translate zh_CN refuseCat_1d4c6563:
 
 translate zh_CN refuseCat_1aee61d8:
 
-    "……支撑住这种存在，{i}真实存在{/i}于此的重量……"
+    "……竟能承受这种东西{i}真实存在{/i}于此的重量……"
 
 translate zh_CN refuseCat_57d2ac22:
 
@@ -846,7 +846,7 @@ translate zh_CN refuseCat_0a4a23c7:
 
 translate zh_CN refuseCat_7e162144:
 
-    "甚至连耳朵，也因无数交谈的感觉而嗡鸣……"
+    "仿佛有无数人同时交谈，吵得你耳朵都嗡嗡作响……"
 
 translate zh_CN refuseCat_403137b9:
 
@@ -866,7 +866,7 @@ translate zh_CN refuseCat_93bc4adf:
 
 translate zh_CN refuseCat_1a0c257a:
 
-    "即使感官欺骗你，试图让你相信相反的事……"
+    "任凭感官怎样欺骗你，让你以为周围还有别人……"
 
 translate zh_CN refuseCat_3fa3800d:
 
@@ -1138,7 +1138,7 @@ translate zh_CN fakePerish_a20cefa7_3:
 
 translate zh_CN fakePerish_5a9b49fc:
 
-    "结局 ？？？：念头，灭了吧"
+    "结局 ？？？：断了念想"
 
 translate zh_CN finalShowdown_8dabefc6:
 

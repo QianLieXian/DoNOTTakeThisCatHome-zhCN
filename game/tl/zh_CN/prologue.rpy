@@ -954,7 +954,7 @@ translate zh_CN prologueChoice2_ed5ea61e:
 
 translate zh_CN prologueChoice2_393f5166:
 
-    "各种感官一点点淹没了你。"
+    "各种感官带来的刺激，开始一点点淹没你。"
 
 translate zh_CN prologueChoice2_2a730601:
 
@@ -962,7 +962,7 @@ translate zh_CN prologueChoice2_2a730601:
 
 translate zh_CN prologueChoice2_1593a3aa:
 
-    "你颤抖的呼吸，与此刻直钻脑髓的杂音格格不入……"
+    "你颤抖的呼吸声，夹在直钻脑髓的杂音里，显得格外突兀……"
 
 translate zh_CN prologueChoice2_ed11f665:
 

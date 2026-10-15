@@ -62,7 +62,7 @@ translate zh_CN finalShowdownChase_c23d8f1d:
 
 translate zh_CN finalShowdownChase_f29a87f6:
 
-    "{b}{color=#FF0000}就 在 这 时 候 候 候 候……{/color}{/b}" with hpunch
+    "{b}{color=#FF0000}就 在 这 时 时 时 时 时……{/color}{/b}" with hpunch
 
 translate zh_CN finalShowdownChase_479c3431:
 

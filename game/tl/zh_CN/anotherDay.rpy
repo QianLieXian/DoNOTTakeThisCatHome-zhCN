@@ -38,7 +38,7 @@ translate zh_CN newDay_5d4d31f0:
 
 translate zh_CN newDay_4e355058:
 
-    "……我心情好得不得了，便又溜达去了那家也没多新的新电影院……"
+    "……心情这么好，我便又溜达去了那家也不算新的新电影院……"
 
 translate zh_CN newDay_5074d7cd:
 
@@ -74,7 +74,7 @@ translate zh_CN newDay_a20cefa7_3:
 
 translate zh_CN newDay_cf798fa8:
 
-    "……可我就是他妈的{b}喜欢{/b}。"
+    "……可我偏偏{b}喜欢得要命{/b}。"
 
 translate zh_CN newDay_8944ff2f:
 
@@ -134,7 +134,7 @@ translate zh_CN newDay_ff72ab2e:
 
 translate zh_CN newDay_a0654299:
 
-    "……看着那些狗，{w}年纪大的、小的，大块头的、小个子的，{w}到处撒欢……"
+    "……看着那些狗，{w}老的、小的，大的、小的，{w}全都跑来跑去，我又有了精神……"
 
 translate zh_CN newDay_b8191da0:
 

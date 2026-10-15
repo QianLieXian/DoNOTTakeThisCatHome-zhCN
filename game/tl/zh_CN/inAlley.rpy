@@ -394,7 +394,7 @@ translate zh_CN confrontTheater_4133c851:
 
 translate zh_CN confrontTheater_31224555:
 
-    "放映厅里只有你一个。真出点什么事，没人会帮你……"
+    "放映厅里没有其他人。真出点什么事，没人会帮你……"
 
 translate zh_CN confrontTheater_56f5734b:
 
@@ -602,7 +602,7 @@ translate zh_CN lookBehindYou_movie_4036cbd4:
 
 translate zh_CN lookBehindYou_movie_e1da1ba0:
 
-    "{size=-7}你觉得，为自己好，刚才发生的{b}所有事情{/b}，最好都压进记忆深处。{/size}"
+    "{size=-7}你觉得，还是把刚才发生的{b}一切{/b}都压进记忆深处，对自己比较好。{/size}"
 
 translate zh_CN lookBehindYou_movie_a20cefa7_1:
 
@@ -834,7 +834,7 @@ translate zh_CN newCinema_2e7e53ad:
 
 translate zh_CN newCinema_4a94d4f7:
 
-    "阴魂不散……几乎像一段旋律……"
+    "听着令人不安……却又几乎像一段旋律……"
 
 translate zh_CN newCinema_d7d1f702:
 
@@ -1574,7 +1574,7 @@ translate zh_CN blendInCinema_a149e153:
 
 translate zh_CN blendInCinema_d292541d:
 
-    "……细声叫着，等最小的手足出生……"
+    "……细声叫着，等最小的弟妹出生……"
 
 translate zh_CN blendInCinema_5d4fa878:
 
@@ -2690,7 +2690,7 @@ translate zh_CN petTheDog_56ebb028:
 
 translate zh_CN petTheDog_14c0cd48:
 
-    "你惊恐得发愣，看着它充盈起来，塑出形体……"
+    "你惊恐地愣在原地，看着那团东西渐渐鼓起，塑出形体……"
 
 translate zh_CN petTheDog_4f09ae08:
 
@@ -2898,7 +2898,7 @@ translate zh_CN stayWithCat_6b313aa1:
 
 translate zh_CN stayWithCat_7a5c58a5:
 
-    "你有点难堪，可猫仿佛察觉到，你又开始嫌弃自己了。"
+    "你有点难堪。可猫像是察觉到，你又在心里贬低自己了，立刻有了动作。"
 
 translate zh_CN stayWithCat_fbbaa7ef:
 
@@ -3018,7 +3018,7 @@ translate zh_CN stayWithCat_16f8a04a:
 
 translate zh_CN stayWithCat_42df3336:
 
-    "你的孤立无援……{w}你的寂寞……"
+    "你与外界的隔绝……{w}你的孤独……"
 
 translate zh_CN stayWithCat_297381cd:
 
@@ -3038,7 +3038,7 @@ translate zh_CN stayWithCat_bd68e443:
 
 translate zh_CN stayWithCat_152f4e90:
 
-    "话题渐渐变得轻柔……"
+    "话题渐渐转向了轻松的事……"
 
 translate zh_CN stayWithCat_ae2b8e89:
 
@@ -3102,7 +3102,7 @@ translate zh_CN stayForever_a654ceef:
 
 translate zh_CN stayForever_9655b73f:
 
-    "倾尽心声，居然这么消耗人。可你不后悔。"
+    "没想到，一番掏心窝子的话竟然这么耗神。可你并不后悔。"
 
 translate zh_CN stayForever_411ac15d:
 
@@ -3118,7 +3118,7 @@ translate zh_CN stayForever_1fa1c68c:
 
 translate zh_CN stayForever_177b5180:
 
-    "这么认真地{i}看见{/i}你……"
+    "这么认真地{i}理解{/i}你……"
 
 translate zh_CN stayForever_925e7315:
 
@@ -3918,7 +3918,7 @@ translate zh_CN escapeAlley_bfcb9214:
 
 translate zh_CN escapeAlley_9200f492:
 
-    "这一声叹息里，如释重负的{b}分量{/b}，重得让你整个人{i}打了个颤。{/i}"
+    "你长长叹出一口气，心头的{b}重担{/b}终于卸下，如释重负得浑身都{i}颤了一下。{/i}"
 
 translate zh_CN escapeAlley_9a73ee02:
 
@@ -3930,11 +3930,11 @@ translate zh_CN escapeAlley_940938e5:
 
 translate zh_CN escapeAlley_d1777533:
 
-    "……可你松了太大一口气，已经顾不上了。"
+    "……可你只顾着庆幸，根本无心在意。"
 
 translate zh_CN escapeAlley_c0c88e96:
 
-    "你累坏了，连“吃饭”这个{i}概念{/i}都不想考虑，直奔卧室。"
+    "你累坏了，连吃饭这{i}回事{/i}都懒得想，直奔卧室。"
 
 translate zh_CN escapeAlley_dae0ec55_1:
 
@@ -4138,7 +4138,7 @@ translate zh_CN feedPockets_ab3079c6:
 
 translate zh_CN feedPockets_c0209341:
 
-    "猫兴奋地扑过来，很容易让你被{w=1.0}{nw}"
+    "猫兴奋地扑过来，稍不留神就会让你{w=1.0}{nw}"
 
 translate zh_CN feedPockets_632d1a35:
 
@@ -4342,7 +4342,7 @@ translate zh_CN feedPockets_90b68c87:
 
 translate zh_CN feedPockets_3c4d90d1:
 
-    "回家路上，你注意到，猫比平时多，躲在各处盯着你……"
+    "回家的路上，比平时更多的猫躲在暗处，盯着你……"
 
 translate zh_CN feedPockets_905314c8:
 
@@ -5814,7 +5814,7 @@ translate zh_CN feedCatMouse2_a20cefa7_13:
 
 translate zh_CN feedCatMouse2_85830579:
 
-    "结局 27：酒足饭饱"
+    "结局 27：饱餐一顿"
 
 translate zh_CN feedBlood_9cad6637:
 
@@ -5914,7 +5914,7 @@ translate zh_CN feedBlood_dbbb8fed:
 
 translate zh_CN feedBlood_28db8729:
 
-    "这种古怪的给予，让你感到一种陌生、却令人欣慰的安慰。"
+    "这番古怪的给予，竟让你有些心安。感觉很陌生，却也不坏。"
 
 translate zh_CN feedBlood_51e619d4:
 
@@ -6438,7 +6438,7 @@ translate zh_CN blood_letCatFeed_4919a924:
 
 translate zh_CN blood_letCatFeed_d58fc52c:
 
-    "{i}非常{/i}经常。"
+    "{i}隔三差五{/i}就会饿。"
 
 translate zh_CN blood_letCatFeed_a20cefa7_7:
 
@@ -6514,7 +6514,7 @@ translate zh_CN play_pockets_ab3079c6:
 
 translate zh_CN play_pockets_c0209341:
 
-    "猫兴奋地扑过来，很容易让你被{w=1.0}{nw}"
+    "猫兴奋地扑过来，稍不留神就会让你{w=1.0}{nw}"
 
 translate zh_CN play_pockets_632d1a35:
 
@@ -6682,7 +6682,7 @@ translate zh_CN play_pockets_a20cefa7_4:
 
 translate zh_CN play_pockets_122874da:
 
-    "……可这张照片，你{b}不认识{/b}。"
+    "……可这张照片，你{b}一点印象也没有{/b}。"
 
 translate zh_CN play_pockets_22b5aa5b:
 
@@ -6958,7 +6958,7 @@ translate zh_CN phoneHome_366ae109:
 
 translate zh_CN phoneHome_207ad5fd:
 
-    "一定是你比自己以为的，还要操劳过度……"
+    "一定是最近太累了，比你自己意识到的还要严重……"
 
 translate zh_CN phoneHome_d200e00e:
 
@@ -7970,7 +7970,7 @@ translate zh_CN play_buyToy_b5de0f8d:
 
 translate zh_CN play_buyToy_54c1b109:
 
-    "……大大的眼睛，是比一般玩具低调得多的浅绿色。"
+    "……那对大眼睛是浅绿色，色调比一般玩具沉静得多。"
 
 translate zh_CN play_buyToy_053e2879:
 
@@ -8326,7 +8326,7 @@ translate zh_CN leaveDoll_f34f5817:
 
 translate zh_CN leaveDoll_c6883583:
 
-    you "你可真{i}{b}不用谢{/b}{/i}啊……"
+    you "你倒{i}{b}真不客气{/b}{/i}啊……"
 
 translate zh_CN leaveDoll_10532c8a:
 
@@ -8398,7 +8398,7 @@ translate zh_CN leaveDoll_a20cefa7:
 
 translate zh_CN leaveDoll_5cf9ed70:
 
-    "也就是说……"
+    "至少……"
 
 translate zh_CN leaveDoll_a20cefa7_1:
 

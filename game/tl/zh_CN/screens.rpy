@@ -297,7 +297,7 @@ translate zh_CN strings:
     new "\n结局 9：剩饭 —— {color=#FF0000}已完成{/color}"
 
     old "    {i}{size=-3}You fed the cat some leftover meatloaf. It liked it okay...{/size}{/i}"
-    new "    {i}{size=-3}你给猫喂了点剩下的肉糜烤饼。它还算喜欢……{/size}{/i}"
+    new "    {i}{size=-3}你给猫喂了点剩下的烤肉饼。它还算喜欢……{/size}{/i}"
 
     old "\nEnding 10: \"You are what you eat...\" -- {color=#FF0000}Complete{/color}"
     new "\n结局 10：“吃什么，成什么……” —— {color=#FF0000}已完成{/color}"
@@ -330,7 +330,7 @@ translate zh_CN strings:
     new "    {i}{size=-3}记住：千万别把猫扔进装满水的浴缸。{/size}{/i}"
 
     old "\nEnding 15: Self-Care Buddies -- {color=#FF0000}Complete{/color}"
-    new "\n结局 15：互相保养好伙伴 —— {color=#FF0000}已完成{/color}"
+    new "\n结局 15：护理好搭档 —— {color=#FF0000}已完成{/color}"
 
     old "    {i}{size=-3}After you give the cat the full spa treatment, it tries its best to return the favor.{/size}{/i}"
     new "    {i}{size=-3}你给猫做了全套水疗。它也尽心尽力地回报了你。{/size}{/i}"
@@ -351,13 +351,13 @@ translate zh_CN strings:
     new "\n结局 18：生日快乐 —— {color=#FF0000}已完成{/color}"
 
     old "    {i}{size=-3}You have a front-row seat to the touching reunion of multiple siblings at the new cinema.{/size}{/i}"
-    new "    {i}{size=-3}你在新电影院坐了个前排，见证好几位手足感人重逢。{/size}{/i}"
+    new "    {i}{size=-3}你在新电影院坐了个前排，见证了一大家子兄弟姐妹的感人重逢。{/size}{/i}"
 
     old "\nEnding 19: You beat the maze :D -- {color=#FF0000}Complete{/color}"
     new "\n结局 19：迷宫通关 :D —— {color=#FF0000}已完成{/color}"
 
     old "    {i}{size=-3}Whoa, you beat the maze on {b}hard mode?!{/b/} Holy COW! You're a real gamer, ain't ya?{/size}{/i}"
-    new "    {i}{size=-3}哇，你通关了{b}困难模式？！{/b}卧槽！真是个游戏高手啊！{/size}{/i}"
+    new "    {i}{size=-3}哇，你居然通关了{b}困难模式？！{/b}我的天！你可真是个游戏高手啊！{/size}{/i}"
 
     old "    {i}{size=-3}Congratulations! You beat the maze.{/size}{/i}"
     new "    {i}{size=-3}恭喜！你走出了迷宫。{/size}{/i}"
@@ -405,7 +405,7 @@ translate zh_CN strings:
     new "    {i}{size=-3}你不肯把一只{s}无助的{/s}老鼠喂给可怜的饿猫。真坏……{/size}{/i}"
 
     old "\nEnding 27: Well-Fed -- {color=#FF0000}Complete{/color}"
-    new "\n结局 27：酒足饭饱 —— {color=#FF0000}已完成{/color}"
+    new "\n结局 27：饱餐一顿 —— {color=#FF0000}已完成{/color}"
 
     old "    {i}{size=-3}Cats are supposed to eat mice. Huh, wonder what mice are supposed to eat...{/size}{/i}"
     new "    {i}{size=-3}猫吃老鼠，天经地义。嗯，不知道老鼠该吃什么呢……{/size}{/i}"

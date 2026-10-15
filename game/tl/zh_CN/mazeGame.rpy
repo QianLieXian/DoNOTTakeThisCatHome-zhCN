@@ -46,7 +46,7 @@ translate zh_CN mazeTutorial_b20052dc:
 
 translate zh_CN mazeTutorial_39fb6b3b:
 
-    "你被一双{i}好手{/i}接管啦！"
+    "交给这双{i}可靠的{/i}手，你就放心吧！"
 
 translate zh_CN mazeTutorial_9985c05f:
 
@@ -54,7 +54,7 @@ translate zh_CN mazeTutorial_9985c05f:
 
 translate zh_CN mazeTutorial_0c5f5726:
 
-    "……一双好{b}爪子！{/b}"
+    "……这双可靠的{b}爪子{/b}！"
 
 translate zh_CN mazeTutorial_5fc3dcc7:
 
@@ -162,7 +162,7 @@ translate zh_CN mazeTutorial_194e688a:
 
 translate zh_CN mazeTutorial_0ba8aaf5:
 
-    "大概只能让你额外{b}快速{/b}瞄一眼周围，能用五次。"
+    "大概只能让你额外照亮周围五次，每次都只有{b}短短一瞬{/b}。"
 
 translate zh_CN mazeTutorial_f28a1cba:
 
@@ -294,7 +294,7 @@ translate zh_CN mazeSettings_b56089a4:
 
 translate zh_CN mazeSettings_dca85608:
 
-    who "现在，你的手电筒能给你{b}七次{/b}重新看清的机会了……"
+    who "现在，你有{b}七次{/b}机会，可以再用手电筒看清周围……"
 
 translate zh_CN mazeSettings_412f0fff:
 

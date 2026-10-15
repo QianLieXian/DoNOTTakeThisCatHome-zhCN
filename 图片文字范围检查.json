@@ -1,0 +1,134 @@
+[
+  {
+    "file": "normalBGs/carnival02.png",
+    "changed_pixels": 234115,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "chase/chaseCarnival02.png",
+    "changed_pixels": 241307,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/newCinema01.png",
+    "changed_pixels": 92933,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "chase/chaseNewCinema01.png",
+    "changed_pixels": 95048,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/newCinema02.png",
+    "changed_pixels": 53970,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "chase/chaseNewCinema02.png",
+    "changed_pixels": 55341,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/newCinema09a.png",
+    "changed_pixels": 50200,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/newCinema09b.png",
+    "changed_pixels": 50200,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/newCinema09c.png",
+    "changed_pixels": 47066,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/newCinema09d.png",
+    "changed_pixels": 33022,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/newCinema09e.png",
+    "changed_pixels": 20986,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyPhone07c.png",
+    "changed_pixels": 65513,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyPhone07d.png",
+    "changed_pixels": 85937,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyPhone07e.png",
+    "changed_pixels": 157152,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyGame07a.png",
+    "changed_pixels": 49655,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyGame07b.png",
+    "changed_pixels": 576004,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyGame07c.png",
+    "changed_pixels": 792177,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyGame08a.png",
+    "changed_pixels": 846291,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "normalBGs/alleyGame08b.png",
+    "changed_pixels": 846372,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "endingICONS/endingIcon33.png",
+    "changed_pixels": 93649,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "endingICONS/endingIcon19HARD.png",
+    "changed_pixels": 3744,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  },
+  {
+    "file": "endingICONS/endingIcon31.png",
+    "changed_pixels": 20890,
+    "outside_mask_changed_pixels": 0,
+    "alpha_changed_pixels": 0
+  }
+]
